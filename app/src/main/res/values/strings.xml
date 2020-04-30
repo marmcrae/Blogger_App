@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Blogger</string>
+    <string name="enter_email">" E-mail"</string>
+    <string name="enter_pw">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="add_post_title" />
+    <string name="post_title_hint">Post Title</string>
+    <string name="post_desc_et">Description</string>
+    <string name="submit_post_button">Submit</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="create_account_button">Create Account</string>
+</resources>
